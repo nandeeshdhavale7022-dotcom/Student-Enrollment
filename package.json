@@ -1,0 +1,21 @@
+{
+  "name": "student-record-management-system",
+  "version": "1.0.0",
+  "description": "Student Record Management REST API with Express.js and MongoDB",
+  "scripts": {
+    "start": "npm --prefix server start",
+    "dev": "npm --prefix server run dev",
+    "seed": "npm --prefix server run seed",
+    "test": "npm --prefix server test",
+    "frontend": "npm --prefix frontend run dev"
+  },
+  "keywords": [
+    "express",
+    "mongodb",
+    "mongoose",
+    "rest-api",
+    "student-management"
+  ],
+  "author": "",
+  "license": "ISC"
+}
